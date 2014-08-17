@@ -1,3 +1,7 @@
+/* Copyright (C) 2014 Rembrandt Bakker, Dhruv Kohli, Piotr Majka
+   This file is part of mindthegap. It is free software and it is covered
+   by the GNU General Public License. See the file LICENSE for details. */
+
 //util.cpp
 #include "util.h"
 #include "lodepng.h"

@@ -1,3 +1,7 @@
+/* Copyright (C) 2014 Rembrandt Bakker, Dhruv Kohli, Piotr Majka
+   This file is part of mindthegap. It is free software and it is covered
+   by the GNU General Public License. See the file LICENSE for details. */
+   
 //svg.h
 #ifndef __SVG_H__
 #define __SVG_H__ 1

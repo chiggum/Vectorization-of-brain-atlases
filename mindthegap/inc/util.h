@@ -1,3 +1,7 @@
+/* Copyright (C) 2014 Rembrandt Bakker, Dhruv Kohli, Piotr Majka
+   This file is part of mindthegap. It is free software and it is covered
+   by the GNU General Public License. See the file LICENSE for details. */
+
 //util.h
 #ifndef __UTIL_H__
 #define __UTIL_H__ 1
